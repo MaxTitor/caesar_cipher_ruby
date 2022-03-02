@@ -24,3 +24,4 @@ def caesar_cipher(user_string, roll = 0)
 end
 
 caesar_cipher("Za Warudo", 1)
+# should return "Ab Xbsvep"
